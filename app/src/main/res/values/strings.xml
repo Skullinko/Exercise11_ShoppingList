@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="dialogTitle">Add a new product</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="exceptionText">must implement NewItemDialogListener</string>
+    <string name="name">Name:</string>
+    <string name="count">Count:</string>
+    <string name="price">Price:</string>
+    <string name="totalPriceText">Total price:</string>
+</resources>
